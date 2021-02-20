@@ -1,0 +1,5 @@
+cn\ith\service\impl\ExhibitService.class
+cn\ith\controller\ExhibitController.class
+cn\ith\dao\IExhibitDao.class
+cn\ith\domain\Exhibit.class
+cn\ith\service\IExhibitService.class
